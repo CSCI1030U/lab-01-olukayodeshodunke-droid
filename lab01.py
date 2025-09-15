@@ -9,7 +9,6 @@ def main():
 
 
     # YOUR CODE FOR PART 2 GOES HERE
-    print(f'cost_per_item = ${cost_per_item:0.2f}') # a sample for you to use for the other prices
     print(f'cost_per_item = ${19.95:0.2f}')
     print(f'quantity = 5')
     print(f'subtotal_cost = ${99.95:0.2f}')
