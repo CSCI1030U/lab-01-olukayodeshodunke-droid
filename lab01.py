@@ -1,7 +1,7 @@
 def main():
     cost_per_item = 19.99
     quantity = 5 
-    subtotal_cost = 99.95
+    subtotal_cost = 99.99
     tax = 12.99
     total_cost = 112.94
 
