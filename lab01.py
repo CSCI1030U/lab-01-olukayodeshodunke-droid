@@ -12,11 +12,11 @@ def main():
 
 
     # YOUR CODE FOR PART 2 GOES HERE
-    print(f'cost_per_item = ${19.99:0.2f}')
-    print(f'quantity = 5')
-    print(f'subtotal_cost = ${99.95:0.2f}')
-    print(f'tax = ${12.99:0.2f}')
-    print(f'total_cost = ${112.94:0.2f}')
+    print(f'cost_per_item = ${19.99:0.2f}\n')
+    print(f'quantity = 5\n')
+    print(f'subtotal_cost = ${99.95:0.2f}\n')
+    print(f'tax = ${12.99:0.2f}\n')
+    print(f'total_cost = ${112.94:0.2f}\n')
 
 
 
