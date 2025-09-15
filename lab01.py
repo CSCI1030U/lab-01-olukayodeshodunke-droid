@@ -16,7 +16,8 @@ def main():
     print(f'quantity = {5}:\n')
     print(f'subtotal_cost = ${99.95:0.2f}:\n')
     print(f'tax = ${12.99:0.2f}:\n')
-    print(f'total_cost = ${112.94:0.2f}:\n')
+    print(f'total_cost = ${112.94:0.2f}:\nAfter 5 years, your investment will be worth 1187.6863056468749 dollars.\n')
+    
 
 
 
